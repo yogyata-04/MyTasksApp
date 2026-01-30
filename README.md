@@ -1,2 +1,7 @@
-# NoteApp
-MERN Stack note taking app
+# MyTasksApp
+
+Tech stack used:
+React
+MongoDB
+Express
+Node.js
