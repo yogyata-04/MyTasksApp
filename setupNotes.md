@@ -1,9 +1,11 @@
+COMMANDS FOR SETUP
+
 - cd backend
 - npm init -y (creates package.json file)
 - npm install express@version (creates package-lock.json and node_modules)
-
 - create server.js / app.js / or whatever
 - node server.js (to run server.js)
+- npm install nodemon -D (dev dependency); devDependencies contain tools needed to develop, test, or lint the application, while dependencies are required to run the application in production
 
 STATUS_CODES
 - 1XX : Informational
