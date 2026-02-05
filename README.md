@@ -5,7 +5,9 @@ Tech stack used:
 - MongoDB [database]
 - Express [web framework - ready to use toolbox for building web apps faster]
 - Node.js [runtime - allows to run JS on server, originally it was only allowed to run on client like browser]
+- Nodemon [automatically restarts the server whenever the file changes]
 
+### NOTE
 - Both in frontend and backend we will be using JS
 
 
