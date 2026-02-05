@@ -23,3 +23,15 @@ STATUS_CODES
 - 5XX : Server Error
   - 500 Internal server error
   - 503 Service Unavailable
+
+SQL VS NOSQL
+
+### SQL (Postgres, MySQL)
+- structured data (data stored in rows and columns)
+- uses sql language (to interact with db, structured queries used)
+- best for complex queries (ideal when we need relationships between data like orders and customers) like for Social media, banking application
+
+## NOSQL (MongoDB, Cassandra)
+- flexible data format (store data like json or key value pairs - good for changing data shapes)
+- uses query language or API (Each NoSQL database has its own way of querying, often simpler and faster for certain tasks)
+- best for big data or real time apps (great for fast changing or huge amount of data)
