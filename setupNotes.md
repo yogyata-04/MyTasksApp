@@ -6,6 +6,8 @@
 - create server.js / app.js / or whatever
 - node server.js (to run server.js)
 - npm install nodemon -D (dev dependency); devDependencies contain tools needed to develop, test, or lint the application, while dependencies are required to run the application in production
+- npm install mongoose
+- npm i @upstash/ratelimit@version @upstash/redis@version
 
 # STATUS_CODES
 - 1XX : Informational
