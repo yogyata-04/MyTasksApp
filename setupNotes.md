@@ -1,4 +1,4 @@
-COMMANDS FOR SETUP
+# COMMANDS FOR SETUP
 
 - cd backend
 - npm init -y (creates package.json file)
@@ -7,7 +7,7 @@ COMMANDS FOR SETUP
 - node server.js (to run server.js)
 - npm install nodemon -D (dev dependency); devDependencies contain tools needed to develop, test, or lint the application, while dependencies are required to run the application in production
 
-STATUS_CODES
+# STATUS_CODES
 - 1XX : Informational
 - 2XX : Success
   - 200 OK
@@ -24,7 +24,7 @@ STATUS_CODES
   - 500 Internal server error
   - 503 Service Unavailable
 
-SQL VS NOSQL
+# SQL VS NOSQL
 
 ### SQL (Postgres, MySQL)
 - structured data (data stored in rows and columns)
@@ -36,7 +36,7 @@ SQL VS NOSQL
 - uses query language or API (Each NoSQL database has its own way of querying, often simpler and faster for certain tasks)
 - best for big data or real time apps (great for fast changing or huge amount of data)
 
-MONGOOSE
+### MONGOOSE
 
 At its core, Mongoose works by:
 - Connecting to a MongoDB database.
