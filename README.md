@@ -8,6 +8,7 @@ Tech stack used:
 - Nodemon [automatically restarts the server whenever the file changes]
 - Mongoose [Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js that provides a schema-based approach to structure application data. It acts as a layer between your Node.js code and MongoDB, offering data validation, relationship modeling, and query building.]
 - upstash [serverless data platform that provides Redis and Kafka as fully managed, pay-per-request services, optimized for serverless and edge environments] for redis (rate limiting)
+- vite [frontend build tool used to create and run web applications—especially React, Vue, and vanilla JS apps—much faster than older tools like Create React App]
 
 ### NOTE
 - Both in frontend and backend we will be using JS
