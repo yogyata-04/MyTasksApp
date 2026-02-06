@@ -8,6 +8,10 @@
 - npm install nodemon -D (dev dependency); devDependencies contain tools needed to develop, test, or lint the application, while dependencies are required to run the application in production
 - npm install mongoose
 - npm i @upstash/ratelimit@version @upstash/redis@version
+- cd frontend
+- npm create vite@latest
+- npm install
+- npm run dev
 
 # STATUS_CODES
 - 1XX : Informational
