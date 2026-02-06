@@ -12,6 +12,7 @@
 - npm create vite@latest
 - npm install
 - npm run dev
+- npm install react-router
 
 # STATUS_CODES
 - 1XX : Informational
